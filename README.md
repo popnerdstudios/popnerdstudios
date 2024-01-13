@@ -21,7 +21,7 @@ const sree = {
                         description: "A personal assistant powered by GPT-4 and Raspberry Pi.",
                         license: "MIT"
                       },
-                  {
+                   {
                         name: "SignGen",
                         description: "A customizable sign/sticker generator.",
                         license: "MIT"
