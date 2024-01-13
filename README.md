@@ -3,7 +3,23 @@
 <p>💻 I enjoy creating useful applications for creators and businesses, using a vast variety of resources and frameworks. </p>
 <p>🕹️ I have a great passion for game development and 3D software, and I enjoy creating and sharing tutorials as well as open source projects. </p>
 
+<br>
+
 [![YouTube: PopNerdStudio](https://img.shields.io/badge/%40PopNerdStudio-red?logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
 [![LinkedIn: sree-gajula](https://img.shields.io/badge/sree--gajula-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/sree-gajula/)
 [![GitHub: popnerdstudios](https://img.shields.io/badge/Follow-black?logo=github&logoColor=white)](https://github.com/popnerdstudios/)
 
+<br>
+
+```javascript
+const sree = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, C/C++, HTML, CSS, Kotlin, Swift],
+  tools: [React, Electron, Node, Docker, LangChain, Unity, Blender],
+  currentProject: {
+                        name: "C-3DK",
+                        description: "A personal assistant powered by GPT-4 and Raspberry Pi",
+                        license: "MIT"
+                      },
+}
+```
