@@ -4,10 +4,8 @@
 [![YouTube: PopNerdStudio](https://img.shields.io/badge/Subscribe-16k-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
 [![LinkedIn: sree-gajula](https://img.shields.io/badge/sree--gajula-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/sree-gajula/)
 [![Website: popnerd.studio](https://img.shields.io/badge/Website-tan?style=flat&logo=react&logoColor=black&labelColor=tan)](https://www.popnerd.studio/)
-[![Gumroad: popnerd](https://img.shields.io/badge/Store-%23ff90e7%09?style=flat&logo=gumroad&logoColor=white&labelColor=%23ff90e7%09)](https://github.com/popnerdstudios/)
+[![Gumroad: popnerd](https://img.shields.io/badge/Store-%23ff90e7%09?style=flat&logo=gumroad&logoColor=white&labelColor=%23ff90e7%09)](https://popnerd.gumroad.com/)
 [![GitHub: popnerdstudios](https://img.shields.io/badge/Follow-black?logo=github&logoColor=white)](https://github.com/popnerdstudios/)
-
-
 
 🕹️ **About Me**:
 
@@ -18,14 +16,8 @@
 ```javascript
 const sree = {
   pronouns: "he" | "him",
-  age: 0b10110,
   code: [Javascript, Python, C/C++, HTML, CSS, Kotlin, Swift],
   tools: [React, Electron, Node, Docker, LangChain, Unity, Blender],
-  currentProject: {
-                        name: "C-3DK",
-                        description: "A personal assistant powered by GPT-4 and Raspberry Pi.",
-                        license: "MIT"
-                      },
 }
 ```
 
