@@ -15,7 +15,7 @@
 ```javascript
 const sree = {
   pronouns: "he" | "him",
-  age: 22,
+  age: 0b10110,
   code: [Javascript, Python, C/C++, HTML, CSS, Kotlin, Swift],
   tools: [React, Electron, Node, Docker, LangChain, Unity, Blender],
   currentProject: {
