@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sree Gajula! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wyOXQxcjlmdXJscXdqdWJ6NzNsOGJnMjV0MGNtYnp0aGIxbzBhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFM5pDRlc0I1O/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Sree Gajula! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wyOXQxcjlmdXJscXdqdWJ6NzNsOGJnMjV0MGNtYnp0aGIxbzBhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFM5pDRlc0I1O/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFpb2l0OTU3aGh1OGF3c3FhNGtuaDZpcmswMXd5cTl5NjFvdXUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.gif" width="130">
 
 
