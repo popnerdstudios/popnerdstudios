@@ -3,7 +3,6 @@
 
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/hVZgpgxk4Dp8vqG4be/giphy.gif" width="100%" />
-</div>
   
 [![YouTube: PopNerdStudio](https://img.shields.io/badge/Subscribe-16k-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
 [![LinkedIn: sree-gajula](https://img.shields.io/badge/sree--gajula-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/sree-gajula/)
@@ -34,3 +33,5 @@ const sree = {
 
 💻 **PopNerd Studio Website**:
 - Check out [my website](https://popnerd.studio) for more projects and content!
+
+</div>
