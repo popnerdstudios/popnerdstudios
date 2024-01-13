@@ -26,7 +26,8 @@ const sree = {
 ```
 
 📢 **Latest Open Source Release**:
-- **SignGen**: A customizable sticker and sign generator for advertising and game development. 
+- **SignGen**: A customizable sticker and sign generator for advertising and game development.
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vsiddireddy&repo=Sign_Gen)](https://github.com/vsiddireddy/Sign_Gen)
 
 
