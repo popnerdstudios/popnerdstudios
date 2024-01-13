@@ -1,14 +1,14 @@
 <h2> Hi, I'm Sree Gajula! 👋</h2>
 
-- **Passionate Software Engineer** & Full-Stack Web Developer
-- **Alumnus of Oregon State University**
-- **Enthusiastic about Game Development** and 3D Software
-
 [![YouTube: PopNerdStudio](https://img.shields.io/badge/%40PopNerdStudio-red?logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
 [![LinkedIn: sree-gajula](https://img.shields.io/badge/sree--gajula-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/sree-gajula/)
 [![GitHub: popnerdstudios](https://img.shields.io/badge/Follow-black?logo=github&logoColor=white)](https://github.com/popnerdstudios/)
 
 🕹️ **About Me**:
+
+- **Passionate Software Engineer** & Full-Stack Web Developer
+- **Alumnus of Oregon State University**
+- **Enthusiastic about Game Development** and 3D Software
 
 ```javascript
 const sree = {
