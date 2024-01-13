@@ -26,9 +26,8 @@ const sree = {
 ```
 
 📢 **Latest Open Source Release**:
-- **SignGen**: A customizable sticker and sign generator for advertising and game development. [Check it out on GitHub](https://github.com/vsiddireddy/Sign_Gen)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+- **SignGen**: A customizable sticker and sign generator for advertising and game development. 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vsiddireddy&repo=Sign_Gen)](https://github.com/vsiddireddy/Sign_Gen)
 
 
 💻 **PopNerd Studio Website**:
