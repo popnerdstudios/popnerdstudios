@@ -2,9 +2,12 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFpb2l0OTU3aGh1OGF3c3FhNGtuaDZpcmswMXd5cTl5NjFvdXUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.gif" width="130">
 
 
-[![YouTube: PopNerdStudio](https://img.shields.io/badge/%40PopNerdStudio-red?logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
+[![YouTube: PopNerdStudio](https://img.shields.io/badge/Subscribe-16k-black?style=social&logo=youtube)](https://www.youtube.com/@PopNerdStudio/)
 [![LinkedIn: sree-gajula](https://img.shields.io/badge/sree--gajula-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/sree-gajula/)
+[![Website: popnerd.studio](https://img.shields.io/badge/Website-popnerd.studio-purple?style=flat&labelColor=purple)](https://www.popnerd.studio/)
 [![GitHub: popnerdstudios](https://img.shields.io/badge/Follow-black?logo=github&logoColor=white)](https://github.com/popnerdstudios/)
+
+
 
 🕹️ **About Me**:
 
