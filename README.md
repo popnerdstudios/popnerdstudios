@@ -33,3 +33,4 @@ const sree = {
 💻 **PopNerd Studio Website**:
 - Check out [my website](https://popnerd.studio) for more projects and content!
 
+<img src="https://myreadme.vercel.app/api/embed/popnerdstudios?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
