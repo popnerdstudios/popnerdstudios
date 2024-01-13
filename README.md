@@ -28,7 +28,7 @@ const sree = {
 📢 **Latest Open Source Releases**:
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vsiddireddy&repo=Sign_Gen)](https://github.com/vsiddireddy/Sign_Gen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popnerdstudios&reo=C-3DK)](https://github.com/popnerdstudios/C-3DK)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popnerdstudios&repo=C-3DK)](https://github.com/popnerdstudios/C-3DK)
 
 💻 **PopNerd Studio Website**:
 - Check out [my website](https://popnerd.studio) for more projects and content!
