@@ -28,6 +28,12 @@ const sree = {
 📢 **Latest Open Source Release**:
 - **SignGen**: A customizable sticker and sign generator for advertising and game development. [Check it out on GitHub](https://github.com/vsiddireddy/Sign_Gen)
 
+  <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+
 💻 **PopNerd Studio Website**:
 - Check out [my website](https://popnerd.studio) for more projects and content!
 
