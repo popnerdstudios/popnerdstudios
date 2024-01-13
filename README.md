@@ -16,9 +16,14 @@ const sree = {
   pronouns: "he" | "him",
   code: [Javascript, Python, C/C++, HTML, CSS, Kotlin, Swift],
   tools: [React, Electron, Node, Docker, LangChain, Unity, Blender],
-  currentProject: {
+  currentProjects: {
                         name: "C-3DK",
-                        description: "A personal assistant powered by GPT-4 and Raspberry Pi",
+                        description: "A personal assistant powered by GPT-4 and Raspberry Pi.",
+                        license: "MIT"
+                      },
+                  {
+                        name: "SignGen",
+                        description: "A customizable sign/sticker generator.",
                         license: "MIT"
                       },
 }
